@@ -1,5 +1,6 @@
 # My_Website
-My website work in progress
+My website work in progress.
+
 Hello there! As a software engineer enthusiast, I am passionate about creating innovative solutions and improving our world through technology.
 I am constantly seeking out new challenges and opportunities to learn and grow, and I am thrilled to be a part of the exciting and dynamic world of software engineering.
 One of the things I love most about software engineering is the opportunity to work on complex problems and find elegant solutions. 
